@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01_정렬, 맵, 셋"
+    "\\.github",
+    "\\01_정렬, 맵, 셋",
+    "\\02_스택, 큐, 덱",
+    "\\03_정수론",
+    "\\4_브루트포스",
+    "\\5_우선순위큐"
   ],
-  "SelectedNode": "\\01_정렬, 맵, 셋\\19636.cpp",
+  "SelectedNode": "\\5_우선순위큐\\19640.cpp",
   "PreviewInSolutionExplorer": false
 }
